@@ -13,7 +13,7 @@
   
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DenisSh33l4r)
   [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/DenisSh33l4r)
-  [![VulnHub](https://img.shields.io/badge/VulnHub-666666?style=for-the-badge&logo=vulnhub&logoColor=white)](https://www.vulnhub.com)
+  [![VulnHub](https://img.shields.io/badge/VulnHub-666666?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMNSAxMkwxMiAyMlsxOSAxMkwxMiAyWk0xMiAyMkw1IDEyTDEyIDJMMTkgMTJMMTIgMjJaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+&logoColor=white)](https://www.vulnhub.com)
   
 </div>
 
